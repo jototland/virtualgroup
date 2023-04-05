@@ -1,7 +1,7 @@
-base    virtualgroup
-author  Dominik Eckelmann
-email   dokuwiki@cosmocode.de
-date    2023-01-15
-name    Virtual Group
+base    virtualgroupjo
+author  Jo Totland
+email   jototland@gmail.com
+date    2023-04-05
+name    Virtual Group (Jos fork)
 desc    Create virtual user groups in DokuWiki
-url     http://www.dokuwiki.org/plugin:virtualgroup
+url     https://github.com/jototland/virtualgroup
